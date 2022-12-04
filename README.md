@@ -2,7 +2,7 @@
 
 AIM: To scrape all available (171) properties using XPATHS with selenium.
 
-Tool: Pyhton (selenium webdriver, pandas)
+Tool: Python (selenium webdriver, pandas)
 
 Created by: Jitenedr Rawat
 
