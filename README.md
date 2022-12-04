@@ -1,6 +1,6 @@
 # Property-web-scraping
 
-AIM: To scrape all available (171) properties using XPATHS with selenium.
+AIM: To scrape all available (171) properties using XPATHS with selenium in a csv file.
 
 Tool: Python (selenium webdriver, pandas)
 
