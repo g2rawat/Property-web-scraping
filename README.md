@@ -1,12 +1,10 @@
 # Property-web-scraping
 
-AIM: To scrape all available (171) properties using XPATHS with selenium in a csv file.
+AIM: To scrape all available (171) properties (spaces for rent or buying) using XPATHS with selenium in a csv file.
 
 Tool: Python (selenium webdriver, pandas)
 
 Created by: Jitenedr Rawat
 
-I faced some problems running the code, as the click function was not working properly. But after running it for the second time it ran perfectly well.
-I was unable to open each page to gather more data (especially the data in pdf). But I’m sure given some time I’ll find some way around it too.
-
-Thank You
+With this module, you can filter through properties to your preference.
+You will get the preferred details of the property like property status, address, price, Images, listing link, and more in a csv file.
